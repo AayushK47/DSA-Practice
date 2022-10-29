@@ -1,11 +1,7 @@
 {
-  "name": "nodejs",
+  "name": "DSA Practice",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Check the readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
